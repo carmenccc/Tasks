@@ -1,0 +1,11 @@
+/*Huiwen Cai 8922586*/
+body{
+    font: normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(223, 206, 241);
+}
+h2{
+    color:#b58;
+    font-size: 2em;
+}
