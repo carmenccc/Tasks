@@ -9,3 +9,46 @@ h2{
     color:#b58;
     font-size: 2em;
 }
+header{
+    background-color : hsl(139, 54%, 28%);
+}
+
+main{
+    float : left;
+    width: 65vw;
+    height: 60vh;
+    background-color : hsl(80, 29%, 90%);
+}
+
+aside{
+    float : right;
+    width: 25vw;
+    height: 60vh;
+    background-color : hsl(137, 32%, 48%);
+}
+
+footer{
+    clear : both;
+    background-color : hsl(119, 20%, 42%);
+}
+
+.structural{
+    margin : 10px;
+    padding : 10px;
+    border : 2px solid green;
+}
+
+#para1{
+    color : rgb(146, 72, 181);
+}
+#para2{
+    color : rgb(115, 39, 143);
+}
+
+a:hover{
+    color : #f02;
+}
+
+footer p{
+    font-size: .75em;
+}
